@@ -11,12 +11,23 @@
 </p>
 
 #### 💌 Creado por: [Aylén Alderete](https://www.linkedin.com/in/aylenalderete/)
- 
-## Matematicas
+## Cursos:
+### Matematicas
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
-| CURSO | LINK | SI |
-| CURSO | LINK | NO |
+| Estadística de secundaria | [Link](https://es.khanacademy.org/math/probability) | SI |
+| Estadística y probabilidad | [Link](https://es.khanacademy.org/math/statistics-probability) | SI |
+| Estadística básica, descriptiva y probabilidad | [Link](https://www.udemy.com/course/estadistica-basica-descriptiva/) | SI |
+| Estadística avanzada | [Link](https://es.khanacademy.org/math/ap-statistics) | SI |
+| Preparación para algebra 1 | [Link](https://es.khanacademy.org/math/get-ready-for-algebra-i) | SI |
+| Preparación para algebra 2 | [Link](https://es.khanacademy.org/math/get-ready-for-algebra-ii) | SI |
+| Fundamentos de algebra | [Link](https://es.khanacademy.org/math/algebra-basics) | SI |
+| Matematicas 1 | [Link](https://es.khanacademy.org/math/math1) | SI |
+| Matematicas 2 | [Link](https://es.khanacademy.org/math/math2) | SI |
+| Matematicas 3 | [Link](https://es.khanacademy.org/math/math3) | SI |
+| Algebra | [Link](https://es.khanacademy.org/math/algebra) | SI |
+| Algebra lineal | [Link](https://es.khanacademy.org/math/linear-algebra) | SI |
+
 
 
 ## Python
