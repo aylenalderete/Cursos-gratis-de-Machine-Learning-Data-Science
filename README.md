@@ -11,8 +11,8 @@
 </p>
 
 #### 💌 Creado por: [Aylén Alderete](https://www.linkedin.com/in/aylenalderete/)
-## Cursos:
-### Matematicas
+
+## Matematicas
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
 | Estadística de secundaria | [Link](https://es.khanacademy.org/math/probability) | SI |
@@ -33,14 +33,30 @@
 ## Python
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
-| CURSO | LINK | SI |
+| Python para principiantes | [Link](https://docs.microsoft.com/es-es/shows/intro-to-python-development/?wt.mc_id=python-c9-niner) | NO |
+| Más Python para principiantes (Youtube) | [Link](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | NO |
+| Aún más Python para principiantes: herramientas de datos | [Link](https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-) | NO |
+
+
+## Inteligencia artificial
+| Título        | Enlace         | ¿Está en español?
+|:--------------------|:--------------------:|:--------------------
+| Inteligencia artificial para principiantes | [Link](https://github.com/microsoft/AI-For-Beginners) | NO |
 | CURSO | LINK | NO |
+
+
+## Data Science
+| Título        | Enlace         | ¿Está en español?
+|:--------------------|:--------------------:|:--------------------
+| Data science para principiantes | [Link](https://microsoft.github.io/Data-Science-For-Beginners/#/) | NO |
+| Introducción para desarrolladores a la ciencia de datos (Serie de cursos) | [Link](https://docs.microsoft.com/es-es/shows/dev-intro-to-data-science/) | NO |
+| Introducción para desarrolladores a la ciencia de datos (MAS serie de cursos) | [Link](https://docs.microsoft.com/es-es/users/drguthals/collections/xze8apz647dq6y?WT.mc_id=DevIntroDS-Ch9-Lazzeri) | NO |
 
 
 ## Machine Learning Básico
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
-| CURSO | LINK | SI |
+| Machine learning para principiantes | [Link](https://github.com/microsoft/ML-For-Beginners) | NO |
 | CURSO | LINK | NO |
 
 
