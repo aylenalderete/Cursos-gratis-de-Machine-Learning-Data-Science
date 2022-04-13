@@ -43,6 +43,7 @@
 |:--------------------|:--------------------:|:--------------------
 | Inteligencia artificial para principiantes | [Link](https://github.com/microsoft/AI-For-Beginners) | NO |
 | CURSO | LINK | NO |
+| CURSO | LINK | NO |
 
 
 ## Data Science
