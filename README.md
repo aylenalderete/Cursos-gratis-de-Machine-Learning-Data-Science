@@ -92,6 +92,6 @@
 ## BONUS
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
-| Inteligencia artificial para psicología | [Link](https://www.youtube.com/watch?v=CU6N9eGexhw&list=PLISuMnTdVU-wv3CUwgA7kbB_a-iBRmqUr&index=2) | SI |
+| Inteligencia artificial para psicología | [Link](https://www.youtube.com/playlist?list=PLISuMnTdVU-wv3CUwgA7kbB_a-iBRmqUr) | SI |
 | Ética de datos | [Link](https://ethics.fast.ai/) | NO |
 
