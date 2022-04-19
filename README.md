@@ -48,7 +48,12 @@
 ## SQL
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
+| Introducción a SQL server | [Link](https://blog.facialix.com/curso-de-introduccion-a-sql-server/amp/) | NO |
+| SQL Básico - Intermedio | [Link](https://www.udemy.com/course/sql-desde-cero-curso-practico/?ranMID=39197&ranEAID=d2gvurItCFk&ranSiteID=d2gvurItCFk-qpMQVQNQN2SonhKqX2Ce1g&LSNPUBID=d2gvurItCFk&utm_source=aff-campaign&utm_medium=udemyads&couponCode=163EF091E6CDA91AD006) | SI |
 | SQL para analisis de datos | [Link](https://www.bootcampai.org/es/courses/data-sql/) | SI |
+| SQL para data science | [Link](https://learndigital.withgoogle.com/digitalgarage/course/sql-data-science) | NO |
+| SQL para data analysis | [Link](https://learndigital.withgoogle.com/digitalgarage/course/sql-for-data-analysis) | NO |
+
 
 
 ## Inteligencia artificial
