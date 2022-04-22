@@ -73,16 +73,11 @@
 | Introducción para desarrolladores a la ciencia de datos (MAS serie de cursos) | [Link](https://docs.microsoft.com/es-es/users/drguthals/collections/xze8apz647dq6y?WT.mc_id=DevIntroDS-Ch9-Lazzeri) | NO |
 
 
-## Machine Learning Básico
+## Machine Learning
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
 | Machine learning para principiantes | [Link](https://github.com/microsoft/ML-For-Beginners) | NO |
 
-
-## Machine Learning avanzado
-| Título        | Enlace         | ¿Está en español?
-|:--------------------|:--------------------:|:--------------------
-| CURSO | LINK | SI |
 
 
 ## Deep Learning
