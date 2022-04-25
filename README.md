@@ -47,6 +47,7 @@
 | Python Intermedio (Github) | [Link](https://lab.github.com/everydeveloper/intermediate-python) | NO | 
 | Python | [Link](https://www.kaggle.com/learn/python) | NO |
 | Python | [Link](https://developers.google.com/learn/topics/python?hl=en) | NO |
+| Python | [Link](https://www.w3schools.com/python/default.asp) | SI |
 
 
 ## SQL
