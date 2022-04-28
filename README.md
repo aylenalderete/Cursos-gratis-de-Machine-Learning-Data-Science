@@ -57,6 +57,7 @@
 | SQL para analisis de datos | [Link](https://www.bootcampai.org/es/courses/data-sql/) | SI |
 | SQL para data science | [Link](https://learndigital.withgoogle.com/digitalgarage/course/sql-data-science) | NO |
 | SQL para data analysis | [Link](https://learndigital.withgoogle.com/digitalgarage/course/sql-for-data-analysis) | NO |
+| SQL | [Link](https://www.w3schools.com/sql/) | NO |
 
 
 
