@@ -86,6 +86,7 @@
 | Conceptos básicos del aprendizaje automático con TensorFlow | [Link](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning) | SI |
 | Aprendizaje automático teórico y avanzado con TensorFlow | [Link](https://www.tensorflow.org/resources/learn-ml/theoretical-and-advanced-machine-learning) | NO |
 | Ciencia de datos y aprendizaje automático en Cloud AI Platform | [Link](https://developers.google.com/learn/topics/datascience?hl=en) | NO |
+| Introducción a Machine Learning | [Link](https://www.kaggle.com/learn/intro-to-machine-learning) | NO |
 
 
 ## Deep Learning
