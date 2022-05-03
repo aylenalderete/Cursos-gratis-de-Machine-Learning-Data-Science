@@ -48,6 +48,7 @@
 | Python | [Link](https://www.kaggle.com/learn/python) | NO |
 | Python | [Link](https://developers.google.com/learn/topics/python?hl=en) | NO |
 | Python | [Link](https://www.w3schools.com/python/default.asp) | SI |
+| Curso Introductorio de Python | [Link](https://ieeeitba.org.ar/cursospython) | SI |
 
 
 ## SQL
@@ -87,6 +88,7 @@
 | Aprendizaje automático teórico y avanzado con TensorFlow | [Link](https://www.tensorflow.org/resources/learn-ml/theoretical-and-advanced-machine-learning) | NO |
 | Ciencia de datos y aprendizaje automático en Cloud AI Platform | [Link](https://developers.google.com/learn/topics/datascience?hl=en) | NO |
 | Introducción a Machine Learning | [Link](https://www.kaggle.com/learn/intro-to-machine-learning) | NO |
+| Análisis de Datos en Python | [Link](https://ieeeitba.org.ar/data-analysis) | SI |
 
 
 ## Deep Learning
