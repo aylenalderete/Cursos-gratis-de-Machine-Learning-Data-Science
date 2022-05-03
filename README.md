@@ -6,9 +6,6 @@
 <p align="left"> 
   El objetivo de este repo es compartir cursos, videos, articulos, etc. que sean gratuitos (algunos en español y otros en ingles) para aprender Machine Learning o Data Science.
 </p>
-<p align="left"> 
-  La siguiente lista detalla los temas principales y cada tema tiene sus respectivos cursos.
-</p>
 
 #### 💌 Creado por: [Aylén Alderete](https://www.linkedin.com/in/aylenalderete/)
 
