@@ -26,6 +26,7 @@
 | Algebra lineal | [Link](https://es.khanacademy.org/math/linear-algebra) | SI |
 | Una introducción al aprendizaje estadístico (Libro) | [Link](https://www.statlearning.com/) | NO |
 | Introducción visual a probabilidad y estadística | [Link](https://seeing-theory.brown.edu/) | NO |
+| Álgebra lineal computacional para programadores | [Link](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) | NO |
 
 
 
@@ -95,6 +96,8 @@
 | Introducción a TensorFlow para Deep Learning | [Link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) | NO |
 | Redes Neuronales y Aprendizaje Profundo (Libro) | [Link](http://neuralnetworksanddeeplearning.com/) | NO |
 | Redes neuronales (videos) | [Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | NO |
+| Deep learning Práctico para Programadores | [Link](https://course.fast.ai/) | NO |
+| Deep learning Fundamentos | [Link](https://course19.fast.ai/part2) | NO |
 
 
 ## Proyectos
