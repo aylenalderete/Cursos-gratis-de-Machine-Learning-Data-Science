@@ -47,6 +47,7 @@
 | Python | [Link](https://developers.google.com/learn/topics/python?hl=en) | NO |
 | Python | [Link](https://www.w3schools.com/python/default.asp) | SI |
 | Curso Introductorio de Python | [Link](https://ieeeitba.org.ar/cursospython) | SI |
+| Librería: Pandas | [Link](https://www.kaggle.com/learn/pandas) | NO |
 
 
 ## SQL
@@ -75,6 +76,7 @@
 | Data science para principiantes | [Link](https://microsoft.github.io/Data-Science-For-Beginners/#/) | NO |
 | Introducción para desarrolladores a la ciencia de datos (Serie de cursos) | [Link](https://docs.microsoft.com/es-es/shows/dev-intro-to-data-science/) | NO |
 | Introducción para desarrolladores a la ciencia de datos (MAS serie de cursos) | [Link](https://docs.microsoft.com/es-es/users/drguthals/collections/xze8apz647dq6y?WT.mc_id=DevIntroDS-Ch9-Lazzeri) | NO |
+| Análisis de Datos en Python | [Link](https://ieeeitba.org.ar/data-analysis) | SI |
 
 
 ## Machine Learning
@@ -86,7 +88,7 @@
 | Aprendizaje automático teórico y avanzado con TensorFlow | [Link](https://www.tensorflow.org/resources/learn-ml/theoretical-and-advanced-machine-learning) | NO |
 | Ciencia de datos y aprendizaje automático en Cloud AI Platform | [Link](https://developers.google.com/learn/topics/datascience?hl=en) | NO |
 | Introducción a Machine Learning | [Link](https://www.kaggle.com/learn/intro-to-machine-learning) | NO |
-| Análisis de Datos en Python | [Link](https://ieeeitba.org.ar/data-analysis) | SI |
+| Machine Learning intermedio | [Link](https://www.kaggle.com/learn/intermediate-machine-learning) | NO |
 
 
 ## Deep Learning
@@ -103,7 +105,8 @@
 ## Proyectos
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
-| CURSO | LINK | SI |
+| Regresión Logística en Python (El TITANIC) | [Link](https://www.youtube.com/watch?v=QVRoAi6rvOE) | SI |
+| Predecir la supervivencia del titanic | [Link](https://www.youtube.com/watch?v=oI05ib6BdLw) | SI |
 
 
 ## BONUS
