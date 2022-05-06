@@ -58,6 +58,8 @@
 | SQL para data science | [Link](https://learndigital.withgoogle.com/digitalgarage/course/sql-data-science) | NO |
 | SQL para data analysis | [Link](https://learndigital.withgoogle.com/digitalgarage/course/sql-for-data-analysis) | NO |
 | SQL | [Link](https://www.w3schools.com/sql/) | NO |
+| Intro a SQL | [Link](https://www.kaggle.com/learn/intro-to-sql) | NO |
+| SQL avanzado | [Link](https://www.kaggle.com/learn/advanced-sql) | NO |
 
 
 
@@ -77,6 +79,7 @@
 | Introducción para desarrolladores a la ciencia de datos (Serie de cursos) | [Link](https://docs.microsoft.com/es-es/shows/dev-intro-to-data-science/) | NO |
 | Introducción para desarrolladores a la ciencia de datos (MAS serie de cursos) | [Link](https://docs.microsoft.com/es-es/users/drguthals/collections/xze8apz647dq6y?WT.mc_id=DevIntroDS-Ch9-Lazzeri) | NO |
 | Análisis de Datos en Python | [Link](https://ieeeitba.org.ar/data-analysis) | SI |
+| Data visualization | [Link](https://www.kaggle.com/learn/data-visualization) | NO |
 
 
 ## Machine Learning
@@ -116,6 +119,7 @@
 | Ética de datos | [Link](https://ethics.fast.ai/) | NO |
 | Prácticas de IA responsables en su flujo de trabajo de ML con TensorFlow | [Link](https://www.tensorflow.org/responsible_ai) | SI |
 | Mejores prácticas para crear aplicaciones de IA útiles y responsables (guía) | [Link](https://pair.withgoogle.com/guidebook/) | NO | 
+| Feature Engineering | [Link](https://www.kaggle.com/learn/feature-engineering) | NO |
 
 
 
