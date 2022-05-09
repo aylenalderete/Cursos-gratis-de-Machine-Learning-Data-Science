@@ -126,6 +126,7 @@
 | Mejores prácticas para crear aplicaciones de IA útiles y responsables (guía) | [Link](https://pair.withgoogle.com/guidebook/) | NO | 
 | Feature Engineering | [Link](https://www.kaggle.com/learn/feature-engineering) | NO |
 | Introducción a la ética de la IA | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics) | NO |
+| Curso de neurociencia computacional de Neuromatch | [Link](https://compneuro.neuromatch.io/tutorials/intro.html) | NO |
 
 
 
