@@ -80,6 +80,7 @@
 | Introducción para desarrolladores a la ciencia de datos (MAS serie de cursos) | [Link](https://docs.microsoft.com/es-es/users/drguthals/collections/xze8apz647dq6y?WT.mc_id=DevIntroDS-Ch9-Lazzeri) | NO |
 | Análisis de Datos en Python | [Link](https://ieeeitba.org.ar/data-analysis) | SI |
 | Data visualization | [Link](https://www.kaggle.com/learn/data-visualization) | NO |
+| Limpieza de datos | [Link](https://www.kaggle.com/learn/data-cleaning) | NO |
 
 
 ## Machine Learning
@@ -92,6 +93,7 @@
 | Ciencia de datos y aprendizaje automático en Cloud AI Platform | [Link](https://developers.google.com/learn/topics/datascience?hl=en) | NO |
 | Introducción a Machine Learning | [Link](https://www.kaggle.com/learn/intro-to-machine-learning) | NO |
 | Machine Learning intermedio | [Link](https://www.kaggle.com/learn/intermediate-machine-learning) | NO |
+| Explicabilidad del aprendizaje automático | [Link](https://www.kaggle.com/learn/machine-learning-explainability) | NO |
 
 
 ## Deep Learning
@@ -103,6 +105,7 @@
 | Redes neuronales (videos) | [Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | NO |
 | Deep learning Práctico para Programadores | [Link](https://course.fast.ai/) | NO |
 | Deep learning Fundamentos | [Link](https://course19.fast.ai/part2) | NO |
+| Introducción a Deep Learning | [Link](https://www.kaggle.com/learn/intro-to-deep-learning) | NO |
 
 
 ## Proyectos
@@ -110,6 +113,7 @@
 |:--------------------|:--------------------:|:--------------------
 | Regresión Logística en Python (El TITANIC) | [Link](https://www.youtube.com/watch?v=QVRoAi6rvOE) | SI |
 | Predecir la supervivencia del titanic | [Link](https://www.youtube.com/watch?v=oI05ib6BdLw) | SI |
+| Predecir los precios de las casas | [Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) | NO |
 
 
 ## BONUS
@@ -120,6 +124,7 @@
 | Prácticas de IA responsables en su flujo de trabajo de ML con TensorFlow | [Link](https://www.tensorflow.org/responsible_ai) | SI |
 | Mejores prácticas para crear aplicaciones de IA útiles y responsables (guía) | [Link](https://pair.withgoogle.com/guidebook/) | NO | 
 | Feature Engineering | [Link](https://www.kaggle.com/learn/feature-engineering) | NO |
+| Introducción a la ética de la IA | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics) | NO |
 
 
 
