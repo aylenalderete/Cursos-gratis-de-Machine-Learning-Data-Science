@@ -82,6 +82,7 @@
 | Análisis de Datos en Python | [Link](https://ieeeitba.org.ar/data-analysis) | SI |
 | Data visualization | [Link](https://www.kaggle.com/learn/data-visualization) | NO |
 | Limpieza de datos | [Link](https://www.kaggle.com/learn/data-cleaning) | NO |
+| Procesamiento de datos con Numpy | [Link](https://www.youtube.com/playlist?list=PLat2DtY8K7YUG6xFMkS185GCPIxcKRXyN) | SI |
 
 
 ## Machine Learning
