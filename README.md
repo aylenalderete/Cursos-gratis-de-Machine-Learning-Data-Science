@@ -84,6 +84,7 @@
 | Data visualization | [Link](https://www.kaggle.com/learn/data-visualization) | NO |
 | Limpieza de datos | [Link](https://www.kaggle.com/learn/data-cleaning) | NO |
 | Procesamiento de datos con Numpy | [Link](https://www.youtube.com/playlist?list=PLat2DtY8K7YUG6xFMkS185GCPIxcKRXyN) | SI |
+| Materia Laboratorio de Datos de UBA | [Link](http://materias.df.uba.ar/lda2021c1/171-2/) | SI |
 
 
 ## Machine Learning
@@ -130,6 +131,7 @@
 | Feature Engineering | [Link](https://www.kaggle.com/learn/feature-engineering) | NO |
 | Introducción a la ética de la IA | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics) | NO |
 | Curso de neurociencia computacional de Neuromatch | [Link](https://compneuro.neuromatch.io/tutorials/intro.html) | NO |
+
 
 
 
