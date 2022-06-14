@@ -49,6 +49,7 @@
 | Curso Introductorio de Python | [Link](https://ieeeitba.org.ar/cursospython) | SI |
 | Librería: Pandas | [Link](https://www.kaggle.com/learn/pandas) | NO |
 | Python para Data science | [Link](https://www.edx.org/es/course/python-for-data-science-2) | SI |
+| Python básico | [Link](https://open-bootcamp.com/cursos/python) | SI |
 
 
 ## SQL
