@@ -4,10 +4,18 @@
 # Cursos gratis de Machine Learning / Data Science  
 
 <p align="left"> 
-  El objetivo de este repo es compartir cursos, videos, articulos, etc. que sean gratuitos (algunos en español y otros en ingles) para aprender Machine Learning o Data Science.
+  El objetivo de este repo es compartir cursos, videos, articulos, etc. que sean gratuitos (algunos en español y otros en ingles) para aprender Machine Learning o Data Science. Al comienzo vas a encontrar una tabla con roadmaps que te pueden ayudar :)
 </p>
 
 #### 💌 Creado por: [Aylén Alderete](https://www.linkedin.com/in/aylenalderete/)
+
+## Roadmaps
+| Título        | Enlace
+|:--------------------|:--------------------
+| Machine Learning Roadmap 2022 | [Link](https://ml2022.my.canva.site/)
+| MLOps Learning Plan | [Link](https://drive.google.com/file/d/1QfCJlE-0nLy2oFA1ja6N5Qn3Z_cqtUB1/view)
+| Machine learning engineer | [Link](https://github.com/codebasics/roadmaps/blob/master/machine-learning-engineer-roadmap-2021/ml_engineer_roadmap_2021.md)
+| Data Scientist | [Link](https://ds-path.netlify.app/sections/ds-path)
 
 ## Matematicas
 | Título        | Enlace         | ¿Está en español?
@@ -131,7 +139,7 @@
 | Mejores prácticas para crear aplicaciones de IA útiles y responsables (guía) | [Link](https://pair.withgoogle.com/guidebook/) | NO | 
 | Feature Engineering | [Link](https://www.kaggle.com/learn/feature-engineering) | NO |
 | Introducción a la ética de la IA | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics) | NO |
-| Curso de neurociencia computacional de Neuromatch | [Link](https://compneuro.neuromatch.io/tutorials/intro.html) | NO |
+| Curso de neurociencia computacional | [Link](https://compneuro.neuromatch.io/tutorials/intro.html) | NO |
 
 
 
