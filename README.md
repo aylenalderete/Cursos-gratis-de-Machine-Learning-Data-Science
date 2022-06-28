@@ -80,6 +80,10 @@
 | Diplomado de Inteligencia Artificial sobre Microsoft Azure | [Link](https://ai.conosur.tech/ai-fundamentals-2021/) | SI |
 | Inteligencia artificial | [Link](https://course.elementsofai.com/es/) | SI |
 | Inteligencia artificial desde 0 | [Link](https://www.youtube.com/watch?v=swpAfyZFt-8&list=PLDXvhsYB9YPwDN2ytB_-ACYiZBCj2jssD) | SI |
+| Construyendo IA | [Link](https://buildingai.elementsofai.com/) | NO |
+| Inteligencia artificial para todos | [Link](https://www.edx.org/es/course/inteligencia-artificial-para-todos-domina-los-fundamentos) | SI |
+
+
 
 
 
@@ -140,6 +144,7 @@
 | Feature Engineering | [Link](https://www.kaggle.com/learn/feature-engineering) | NO |
 | Introducción a la ética de la IA | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics) | NO |
 | Curso de neurociencia computacional | [Link](https://compneuro.neuromatch.io/tutorials/intro.html) | NO |
+| Etica de la IA | [Link](https://ethics-of-ai.mooc.fi/) | NO |
 
 
 
