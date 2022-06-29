@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/70109524/162004746-c5a9a7dd-dffe-42a1-a98f-0865b3950613.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-# Cursos gratis de Machine Learning / Data Science  
+# Cursos gratis de Machine Learning y Data Science  
 
 <p align="left"> 
   El objetivo de este repo es compartir cursos, videos, articulos, etc. que sean gratuitos (algunos en español y otros en ingles) para aprender Machine Learning o Data Science. Al comienzo vas a encontrar una tabla con roadmaps que te pueden ayudar :)
