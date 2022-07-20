@@ -77,7 +77,7 @@
 | Título        | Enlace         | ¿Está en español?
 |:--------------------|:--------------------:|:--------------------
 | Inteligencia artificial para principiantes | [Link](https://github.com/microsoft/AI-For-Beginners) | NO |
-| Diplomado de Inteligencia Artificial sobre Microsoft Azure | [Link](https://ai.conosur.tech/ai-fundamentals-2021/) | SI |
+| Diplomado de Inteligencia Artificial - Microsoft Azure | [Link](https://ai.conosur.tech/ai-fundamentals-2021/) | SI |
 | Inteligencia artificial | [Link](https://course.elementsofai.com/es/) | SI |
 | Inteligencia artificial desde 0 | [Link](https://www.youtube.com/watch?v=swpAfyZFt-8&list=PLDXvhsYB9YPwDN2ytB_-ACYiZBCj2jssD) | SI |
 | Construyendo IA | [Link](https://buildingai.elementsofai.com/) | NO |
