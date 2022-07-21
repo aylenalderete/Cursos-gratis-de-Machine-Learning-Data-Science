@@ -124,6 +124,7 @@
 | Deep learning Práctico para Programadores | [Link](https://course.fast.ai/) | NO |
 | Deep learning Fundamentos | [Link](https://course19.fast.ai/part2) | NO |
 | Introducción a Deep Learning | [Link](https://www.kaggle.com/learn/intro-to-deep-learning) | NO |
+| Videos sobre deep learning | [Link](https://www.youtube.com/channel/UCFjy65CGFDRHABHUiDxfceQ/videos) | SI |
 
 
 ## Proyectos
