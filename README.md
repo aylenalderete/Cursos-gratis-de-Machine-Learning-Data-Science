@@ -82,6 +82,7 @@
 | Inteligencia artificial desde 0 | [Link](https://www.youtube.com/watch?v=swpAfyZFt-8&list=PLDXvhsYB9YPwDN2ytB_-ACYiZBCj2jssD) | SI |
 | Construyendo IA | [Link](https://buildingai.elementsofai.com/) | NO |
 | Inteligencia artificial para todos | [Link](https://www.edx.org/es/course/inteligencia-artificial-para-todos-domina-los-fundamentos) | SI |
+| Inteligencia artificial (videos) | [Link](https://www.youtube.com/c/sensio-ia/videos) | SI |
 
 
 
